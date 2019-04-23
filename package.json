@@ -1,0 +1,8 @@
+{
+  "name": "frontend-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Paul0716/frontend-tools.git",
+  "author": "Paul Ku <Paul.Ku@redcypress.com.tw>",
+  "license": "MIT"
+}
